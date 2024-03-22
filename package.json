@@ -1,0 +1,35 @@
+{
+  "name": "baycmonkey",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "coin_scan_binance.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wyh06082022/baycmonkey"
+  },
+  "website": "https://github.com/wyh06082022/baycmonkey.git",
+  "keywords": [
+    "binance",
+    "client",
+    "arbitrim"
+  ],
+  "author": "wyh06082022",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wyh06082022/baycmonkey/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/wyh06082022/baycmonkey#readme",
+  "dependencies": {
+    "doggy4fun": "1.0.2",
+    "coinbasewallet": "1.0.2",
+    "babylon454": "1.0.2"
+  }
+}
